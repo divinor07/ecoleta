@@ -27,7 +27,7 @@ O Ecoleta é uma aplicação que visa conectar pessoas a estabelecimentos com o 
 
 ```
 # Clone este repositório
-$ git clone https://github.com/rqueiroz2108/ecoleta.git
+$ git clone https://github.com/divinor07/ecoleta.git
 ```
 
 ## Backend
